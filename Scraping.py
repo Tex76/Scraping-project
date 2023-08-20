@@ -20,3 +20,4 @@ def point_value(point):
 # taking one system argument, convert it into number and then apply it to the function
 points = sys.argv[1:2]
 point_value(int(points[0]))
+# end of application
